@@ -1,0 +1,7 @@
+{
+  "name": "FlowState Studio",
+  "description": "The ultimate AI-powered rap studio. Write bars with AI assistance, record your flow, generate cover art, and publish your tracks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
